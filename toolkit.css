@@ -706,7 +706,7 @@ button:focus {
 }
 
 .wellbeing .back {
-	background: url(http://api.thumbr.it/whitenoise-361x370.png?background=4ea6ca00&noise=626262&density=45&opacity=15) #252a79
+	background: #252a79
 }
 
 .wellbeing .liked,
@@ -715,7 +715,7 @@ button:focus {
 }
 
 .communicating .back {
-    background: url(http://api.thumbr.it/whitenoise-361x370.png?background=8bc57600&noise=626262&density=15&opacity=15) #4b4471
+    background: #4b4471
 }
 
 .communicating .liked,
@@ -725,7 +725,7 @@ button:focus {
 }
 
 .collaborating .back {
-    background: url(http://api.thumbr.it/whitenoise-361x370.png?background=4ea6ca00&noise=626262&density=45&opacity=15) #b26f4f
+    background: #b26f4f
 }
 
 .collaborating .liked,
@@ -734,7 +734,7 @@ button:focus {
 }
 
 .orgbuilding .back {
-    background: url(http://api.thumbr.it/whitenoise-361x370.png?background=4ea6ca00&noise=626262&density=45&opacity=15) #de6e1e
+    background: #de6e1e
 }
 
 .orgbuilding .liked,
@@ -794,22 +794,22 @@ button:focus {
 }
 
 .card.wellbeing .front {
-    background: none center 7.5rem no-repeat, url(http://api.thumbr.it/whitenoise-361x370.png?background=879db8&noise=626262&density=5&opacity=45) left top #2c328e;
+    background: none center 7.5rem no-repeat, #2c328e;
     background-size: 35%, auto
 }
 
 .card.communicating .front {
-    background: none center 7.5rem no-repeat, url(http://api.thumbr.it/whitenoise-361x370.png?background=8bc57600&noise=626262&density=15&opacity=15) left top #5b5288;
+    background: none center 7.5rem no-repeat, #5b5288;
     background-size: 35%, auto
 }
 
 .card.collaborating .front {
-    background: none center 7.5rem no-repeat, url(http://api.thumbr.it/whitenoise-361x370.png?background=4ea6ca00&noise=626262&density=45&opacity=15) left top #c67d59;
+    background: none center 7.5rem no-repeat, #c67d59;
     background-size: 35%, auto
 }
 
 .card.orgbuilding .front {
-    background: none center 7.5rem no-repeat, url(http://api.thumbr.it/whitenoise-361x370.png?background=f15c33&noise=626262&density=5&opacity=25) left top #f47920;
+    background: none center 7.5rem no-repeat, #f47920;
     background-size: 35%, auto
 }
 
