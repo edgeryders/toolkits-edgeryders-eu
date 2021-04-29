@@ -791,54 +791,54 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 
     <script>
-    function send_feedback(id, question, feedback) {
-    $.ajax({
-        url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/Table 1',
-        headers: {
-        'Authorization': 'Bearer keyocggSHfh6E9gSg'
-        },
-        method: 'POST',
-        data: {
-        'fields': {
-            'id': id,
-            'Question': question,
-            'Feedback': feedback
-        }
-        },
-        success: function() {
-        console.log('it worked! I think');
-            $(".feedback").val('');
-            $('#success').modal();
-        },
-        error: function() {
-        console.log('nope');
-        }
-    });
-    }
-
-    $(document).ready(function () {
-        $(".container").each(function (e) {
-            var t = 0.3 * Math.random() - 0.1;
-            $(this).css("transform", "rotate(" + t + "deg)");
-        }),
-            AOS.init({ duration: 600, easing: "ease-out-back", once: !0 }),
-            $(".top-nav .button").on("click", function () {
-                $(this).toggleClass("active"), $(".menu").slideToggle("fast");
+        function send_feedback(id, question, feedback) {
+            $.ajax({
+                url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/remote',
+                headers: {
+                    'Authorization': 'Bearer keyocggSHfh6E9gSg'
+                },
+                method: 'POST',
+                data: {
+                    'fields': {
+                        'id': id,
+                        'Question': question,
+                        'Feedback': feedback
+                    }
+                },
+                success: function() {
+                    console.log('it worked! I think');
+                    $(".feedback").val('');
+                    $('#success').modal();
+                },
+                error: function() {
+                    console.log('nope');
+                }
             });
-            var question; var id;
-        for (var e = document.querySelectorAll(".give_feedback"), t = 0; t < e.length; t++)
-            e[t].onclick = function () {
-                question = this.getAttribute("data-click-question");
-                id = this.getAttribute("data-click-id");
-                $("h3.question").text(question);
-            };
+        }
 
-    $(".submit").click(function () {
-        var feedback = $('.feedback').val();
-        send_feedback(id, question, feedback);
-        $.modal.close();
+        $(document).ready(function () {
+            $(".container").each(function (e) {
+                var t = 0.3 * Math.random() - 0.1;
+                $(this).css("transform", "rotate(" + t + "deg)");
+            }),
+                AOS.init({ duration: 600, easing: "ease-out-back", once: !0 }),
+                $(".top-nav .button").on("click", function () {
+                    $(this).toggleClass("active"), $(".menu").slideToggle("fast");
+                });
+                var question; var id;
+            for (var e = document.querySelectorAll(".give_feedback"), t = 0; t < e.length; t++)
+                e[t].onclick = function () {
+                    question = this.getAttribute("data-click-question");
+                    id = this.getAttribute("data-click-id");
+                    $("h3.question").text(question);
+                };
+
+        $(".submit").click(function () {
+            var feedback = $('.feedback').val();
+            send_feedback(id, question, feedback);
+            $.modal.close();
+            });
         });
-    });
     </script>
 
 </body>
