@@ -705,21 +705,27 @@ button:focus {
     pointer-events: none
 }
 
-.wellbeing .back {
+.wellbeing .back, 
+.individual .back,{
 	background: #252a79
 }
 
 .wellbeing .liked,
-.wellbeing a.like:active {
+.wellbeing a.like:active,
+.individual .liked,
+.individual a.like:active {
 	color: #008bb3
 }
 
-.communicating .back {
+.communicating .back,
+.social .back {
     background: #4b4471
 }
 
 .communicating .liked,
-.communicating a:active {
+.communicating a:active,
+.social .liked,
+.social a:active {
     color: #75a664;
     background-color: gold!important
 }
@@ -733,12 +739,15 @@ button:focus {
     color: #c1492a
 }
 
-.orgbuilding .back {
+.orgbuilding .back,
+.professional .back {
     background: #de6e1e
 }
 
 .orgbuilding .liked,
-.orgbuilding a:active {
+.orgbuilding a:active,
+.professional .liked,
+.professional a:active {
     color: #708091
 }
 
@@ -793,12 +802,14 @@ button:focus {
     height: auto
 }
 
-.card.wellbeing .front {
+.card.wellbeing .front,
+.card.individual .front {
     background: none center 7.5rem no-repeat, #2c328e;
     background-size: 35%, auto
 }
 
-.card.communicating .front {
+.card.communicating .front,
+.card.social .front {
     background: none center 7.5rem no-repeat, #5b5288;
     background-size: 35%, auto
 }
@@ -808,12 +819,14 @@ button:focus {
     background-size: 35%, auto
 }
 
-.card.orgbuilding .front {
+.card.orgbuilding .front,
+.card.professional .front {
     background: none center 7.5rem no-repeat, #f47920;
     background-size: 35%, auto
 }
 
-.card.orgbuilding .front .container {
+.card.orgbuilding .front .container,
+.card.professional .front .container {
     transform: none!important
 }
 

@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Edgeryders Academy" />
+    <meta name="description" content="Introducing a new toolkit for the engaged citizen: Community Building, Ethnography and Semantic Social Networks." />
+    <meta name="keywords" content="collective intelligence ethnography graphryder community network networks semantic web social" />
+    <meta itemprop="name" content="Edgeryders Academy">
+    <meta itemprop="description" content="Introducing a new toolkit for the engaged citizen: Community Building, Ethnography and Semantic Social Networks.">
+    <meta itemprop="image" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@edgeryders">
+    <meta name="twitter:title" content="Edgeryders Academy">
+    <meta name="twitter:description" content="Introducing a new toolkit for the engaged citizen: Master Community Building and Management, Ethnography, Semantic Social Networks and more.">
+    <meta name="twitter:creator" content="@edgeryders">
+    <meta name="twitter:image:src" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg">
+    <meta property="og:title" content="Edgeryders Academy" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Edgeryders Academy" />
+    <meta property='article:author' content='https://www.facebook.com/edgeryders' />
+    <meta property='article:publisher' content='https://www.facebook.com/edgeryders' />
+    <meta property="og:url" content="http://academy.edgeryders.eu/" />
+    <meta property="og:image" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg" />
+    <meta property="og:description" content="Introducing a new toolkit for the engaged citizen: Master Community Building and Management, Ethnography, Semantic Social Networks and more." />
+    <meta property="article:published_time" content="2018-05-01T07:00:00+01:00" />
+    <meta property="article:modified_time" content="2018-05-01T08:00:00+01:00" />
+    <meta property="og:updated_time" content="2018-05-01T08:00:00+01:00" />
+    <meta property="article:tag" content="collective intelligence" />
+    <meta property="article:tag" content="ethnography" />
+    <meta property="article:tag" content="semantic web" />
+    <meta property="og:price:amount" content="99.00" />
+    <meta property="og:price:currency" content="USD" />
+    <meta property="fb:admins" content="290379807658377" />
+    <link rel="apple-touch-icon" sizes="57x57" href="icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
+    <link rel="manifest" href="icon/manifest.json">
+    <link rel="stylesheet" type="text/css" href="./toolkit.css">
+    <link rel="stylesheet" type="text/css" href="css/aos.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/scrolloverflow.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here|Reenie+Beanie" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="title">
+            <h1>Edgeryders</h1>
+        </div>
+        <!--
+        <ul id="menu">
+            <li data-menuanchor="firstPage" class="hide"><a href="#firstPage">Home</a></li>
+            <li data-menuanchor="secondPage" class="hide"><a href="#secondPage">Courses</a></li>
+            <li data-menuanchor="3rdPage" class="hide"><a href="#3rdPage">Log In</a></li>
+            <li data-menuanchor="4thpage"><a href="#4thpage">Sign Up</a></li>
+        </ul>
+        -->
+    </header>
+
+    <div class="intro">
+        <h1>Well-Being At Work Toolkit</h1>
+        <h2>By Edgeryders</h2>
+        <p>These cards help you discover and discuss aspects of well-being at work.
+            <span style="color: orangered !important">Have a good journey!</span>
+        </p>
+    </div>
+
+    <div class="grid">
+        <div class='page-menu'>
+            <div class="button-group filter-button-group">
+                <button class="button is-checked" data-filter="*" class='active'>Show All</button>
+                <button class="button" data-filter=".individual">Individual</button>
+                <button class="button" data-filter=".social">Social</button>
+                <button class="button" data-filter=".professional">Professional</button>
+            </div>
+        </div>
+
+        <!-- "Wellbeing Cards" for auditing distributed collaboration. Count: 42 -->
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>purpose, meaning, impact</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="purpose, meaning, impact" data-click-question="How does the meaning and impact of your work affect your personal well-being?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card-sizer"></div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>values &amp; vision</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="values &amp; vision" data-click-question="What are core values and visions that guide or should guide your work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>work-life balance</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="work-life balance" data-click-question="How do you manage a work-life balance? What can throw it off-balance?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>physical health</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="physical health" data-click-question="How does physical and emotional health affect your well-being at work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>safety</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="safety" data-click-question="How to guarantee safe conditons at work and make them accessible for all?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>stress</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="stress" data-click-question="Where does stress come from at work, and how do you deal with it?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>creativity, inspiration</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="creativity, inspiration" data-click-question="Where is your space for playfulness, testing & learning?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>freedom</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="freedom" data-click-question="Do you feel freedom when at work? If not, what has to change for you to feel it?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>autonomy</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="autonomy" data-click-question="Are you as autonomous as you want to be at work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>time waste</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="time waste" data-click-question="Where is time wasted in your organization?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>incentives</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="incentives" data-click-question="Which incentives make your work more enjoyable, and which ones do you miss?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>transition</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="transition" data-click-question="How do current organizational changes and transitions affect your well-being at work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>waste</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="waste" data-click-question="What current sources of waste are there and how to eliminate them?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card individual icon-2997667" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Individual Well-Being</h3>
+                    <p>workspace</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="workspace" data-click-question="How to better use the size, location and resources of your workplace for better well-being at work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- ---------------- -->
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>socializing at work</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="socializing at work" data-click-question="What are the current challenges to make socializing at work beneficial to everyone's mood and well-being?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>socializing off work</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="socializing off work" data-click-question="Are you interested in more socializing with your colleagues after work hours?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>friendships and mutual support</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="friendships and mutual support" data-click-question="How important are friendships and mutual support between colleagues for your well-being at work?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>team spirit</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="team spirit" data-click-question="Describe the current team spirit in a single sentence.">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>collaboration quality</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="collaboration quality" data-click-question="When you work together with your colleagues, are you generally happy with the way you collaborate?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>communication quality</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="communication quality" data-click-question="Are you generally happy with your colleagues' communication styles (format, wording, clarity etc.)? If not, what would you improve?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>behavior conventions and norms</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="behavior conventions and norms" data-click-question="How are people acting, and why?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>culture &amp; heritage</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="culture &amp; heritage" data-click-question="How to recognise and navigate cultural differences?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>hierarchy</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="hierarchy" data-click-question="How to utilize organizational hierarchies respectfully?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>transparency</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="transparency" data-click-question="How to ensure transparency &amp; clarity?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>leadership</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="leadership" data-click-question="How to inspire, guide and communicate?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>organizational culture</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="organizational culture" data-click-question="What patterns, attitudes &amp; behaviours of the organization's culture should be discussed?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>regulations and policy</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="regulations and policy" data-click-question="How do government policies and legal restrictions affect well-being at work – both positively and negatively?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>resistance</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="resistance" data-click-question="What fears, old habits &amp; values should be challenged?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>responsibilities</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="responsibilities" data-click-question="Are you happy with the responsibilities that came with your role? Are they well-defined?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>trust</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="trust" data-click-question="How to build openness, respect and trust?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>tools and technology</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="tools and technology" data-click-question="Which ones are necessary, and how to ensure the desired impact?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card social icon-2879775" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Social Well-Being</h3>
+                    <p>whistleblowing</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="whistleblowing" data-click-question="How to safely expose misconduct?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- ------------------- -->
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>trends</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="trends" data-click-question="How do current trends impact well-being in the organization?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>standardization</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="standardization" data-click-question="How to simplify, improve efficiency &amp; reduce stress with standards and conventions?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>stakeholders</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="stakeholders" data-click-question="With whom do you interact at work and how does that impact your well-being?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>organizational growth</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="organizational growth" data-click-question="How do growth pains of the organization impact your well-being?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>accountability</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="accountability" data-click-question="How to assume responsibility and own mistakes?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>strategy</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="strategy" data-click-question="How do the organization's strategy decisions impact your well-being?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>education &amp; training</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="education &amp; training" data-click-question="Which skills would you like to develop? Which knowledge would you like to gain?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>gender equality</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="gender equality" data-click-question="How to ensure equal access to opportunities and support?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>equal opportunities</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="equal opportunities" data-click-question="How to ensure equal opportunities for career progression?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>performance benchmarks</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="performance benchmarks" data-click-question="What are actions that lead to excellence at work? How to recognize and reward them?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card professional icon-1485254" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Professional Well-Being</h3>
+                    <p>career opportunities</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="career opportunities" data-click-question="Which career opportunities are you looking for currently?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div> <!-- ending div class="grid" -->
+
+    <!-- -------------------------------------------------------------------------- -->
+
+    <div id="ex1" class="modal">
+        <h3 style="color: black" class="question"></h3>
+        <h3>Write your answer below, it will remain anonymous.</h3>
+        <textarea class="feedback"></textarea>
+        <button class="submit">Submit</button>
+    </div>
+
+    <div id="success" class="modal">
+        <h3>Thank you for your feedback!</h3>
+        <p style="text-align: center; color: black; margin: 10px 0 20px 0;">Your answer has been sent to us.</p>
+    </div>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.js'></script>
+    <script src='js/aos.js'></script>
+    <script src='js/toolkit.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+    <script>
+        function send_feedback(id, question, feedback) {
+            $.ajax({
+                url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/wellbeing',
+                headers: {
+                    'Authorization': 'Bearer keyocggSHfh6E9gSg'
+                },
+                method: 'POST',
+                data: {
+                    'fields': {
+                        'id': id,
+                        'Question': question,
+                        'Feedback': feedback
+                    }
+                },
+                success: function() {
+                    console.log('it worked! I think');
+                    $(".feedback").val('');
+                    $('#success').modal();
+                },
+                error: function() {
+                    console.log('nope');
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $(".container").each(function (e) {
+                var t = 0.3 * Math.random() - 0.1;
+                $(this).css("transform", "rotate(" + t + "deg)");
+            }),
+                AOS.init({ duration: 600, easing: "ease-out-back", once: !0 }),
+                $(".top-nav .button").on("click", function () {
+                    $(this).toggleClass("active"), $(".menu").slideToggle("fast");
+                });
+                var question; var id;
+            for (var e = document.querySelectorAll(".give_feedback"), t = 0; t < e.length; t++)
+                e[t].onclick = function () {
+                    question = this.getAttribute("data-click-question");
+                    id = this.getAttribute("data-click-id");
+                    $("h3.question").text(question);
+                };
+
+        $(".submit").click(function () {
+            var feedback = $('.feedback').val();
+            send_feedback(id, question, feedback);
+            $.modal.close();
+            });
+        });
+    </script>
+
+</body>
+</html>
