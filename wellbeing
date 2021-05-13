@@ -326,7 +326,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="socializing at work" data-click-question="What are the current challenges to make socializing at work beneficial to everyone's mood and well-being?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="socializing at work" data-click-question="How can socializing at work better contribute to everyone's motivation and well-being?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
