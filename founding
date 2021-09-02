@@ -1,0 +1,1167 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="author" content="Edgeryders Academy" />
+    <meta name="description" content="Introducing a new toolkit for the engaged citizen: Community Building, Ethnography and Semantic Social Networks." />
+    <meta name="keywords" content="collective intelligence ethnography graphryder community network networks semantic web social" />
+    <meta itemprop="name" content="Edgeryders Academy">
+    <meta itemprop="description" content="Introducing a new toolkit for the engaged citizen: Community Building, Ethnography and Semantic Social Networks.">
+    <meta itemprop="image" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@edgeryders">
+    <meta name="twitter:title" content="Edgeryders Academy">
+    <meta name="twitter:description" content="Introducing a new toolkit for the engaged citizen: Master Community Building and Management, Ethnography, Semantic Social Networks and more.">
+    <meta name="twitter:creator" content="@edgeryders">
+    <meta name="twitter:image:src" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg">
+    <meta property="og:title" content="Edgeryders Academy" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Edgeryders Academy" />
+    <meta property='article:author' content='https://www.facebook.com/edgeryders' />
+    <meta property='article:publisher' content='https://www.facebook.com/edgeryders' />
+    <meta property="og:url" content="http://academy.edgeryders.eu/" />
+    <meta property="og:image" content="http://academy.edgeryders.eu/img/edgeryders_academy_logo.jpg" />
+    <meta property="og:description" content="Introducing a new toolkit for the engaged citizen: Master Community Building and Management, Ethnography, Semantic Social Networks and more." />
+    <meta property="article:published_time" content="2018-05-01T07:00:00+01:00" />
+    <meta property="article:modified_time" content="2018-05-01T08:00:00+01:00" />
+    <meta property="og:updated_time" content="2018-05-01T08:00:00+01:00" />
+    <meta property="article:tag" content="collective intelligence" />
+    <meta property="article:tag" content="ethnography" />
+    <meta property="article:tag" content="semantic web" />
+    <meta property="og:price:amount" content="99.00" />
+    <meta property="og:price:currency" content="USD" />
+    <meta property="fb:admins" content="290379807658377" />
+    <link rel="apple-touch-icon" sizes="57x57" href="icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
+    <link rel="manifest" href="icon/manifest.json">
+    <link rel="stylesheet" type="text/css" href="./toolkit.css">
+    <link rel="stylesheet" type="text/css" href="css/aos.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js/scrolloverflow.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Just+Me+Again+Down+Here|Reenie+Beanie" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="title">
+            <h1>Edgeryders</h1>
+        </div>
+        <!--
+        <ul id="menu">
+            <li data-menuanchor="firstPage" class="hide"><a href="#firstPage">Home</a></li>
+            <li data-menuanchor="secondPage" class="hide"><a href="#secondPage">Courses</a></li>
+            <li data-menuanchor="3rdPage" class="hide"><a href="#3rdPage">Log In</a></li>
+            <li data-menuanchor="4thpage"><a href="#4thpage">Sign Up</a></li>
+        </ul>
+        -->
+    </header>
+
+    <div class="intro">
+        <h1>Founders’ Toolkit</h1>
+        <h2>By Edgeryders</h2>
+        <p>These cards help you explore new ventures and entrepreneurial projects.
+            <span style="color: orangered !important">Have a good journey!</span>
+        </p>
+    </div>
+
+    <div class="grid">
+        <div class='page-menu'>
+            <div class="button-group filter-button-group">
+                <button class="button is-checked" data-filter="*" class='active'>Show All</button>
+                <!-- No categories applied for this card set, so let's hide them.
+                <button class="button" data-filter=".wellbeing">Well-Being</button>
+                <button class="button" data-filter=".communicating">Communicating</button>
+                <button class="button" data-filter=".collaborating">Collaborating</button>
+                <button class="button" data-filter=".orgbuilding">Organization Building</button>
+                -->
+            </div>
+        </div>
+
+        <!-- "Storytime Cards" for starting a venture together. Count: 62-->
+
+        <!-- Card not displayed. Missing an icon still.
+
+        <div class="container">
+            <div class="card uncategorized icon-TODO" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Activation</h3>
+                    <p>What Activities will draw Engament and Participation</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Activities will draw Engament and Participation">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        -->
+
+        <div class="card-sizer"></div>
+
+        <div class="container">
+            <div class="card uncategorized icon-573671" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Budget</h3>
+                    <p>How much will be earned &amp; spent</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How much will be earned &amp; spent">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1113278" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Business Model</h3>
+                    <p>Model how we will Create Value</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Model how we will Create Value">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1113278" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Communication Campaigns</h3>
+                    <p>What Activities and Materials will draw Media Attention</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Activities and Materials will draw Media Attention">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3644349" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Communication Channels</h3>
+                    <p>What local channels are the most relevant for reaching out</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What local channels are the most relevant for reaching out">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1927849" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Community Management</h3>
+                    <p>People around the bonfire</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People around the bonfire">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3319766" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Consequences</h3>
+                    <p>The Effects &amp; Results of different choices</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Effects &amp; Results of different choices">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1088119" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Conversion</h3>
+                    <p>How we get visitors to become users</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we get visitors to become users">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-177933" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Core Values</h3>
+                    <p>What you Stand For</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What you Stand For">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2540854" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Costs</h3>
+                    <p>Fixed &amp; Flexible costs</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Fixed &amp; Flexible costs">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-981508" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Deadlines</h3>
+                    <p>Important Times for Delivering Results</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Important Times for Delivering Results">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3890826" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Differentiator</h3>
+                    <p>What makes it Unique &amp; Special</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What makes it Unique &amp; Special">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-937298" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Discards</h3>
+                    <p>What solutions will Users Leave Behind for Yours</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What solutions will Users Leave Behind for Yours">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-172433" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Disruptiveness</h3>
+                    <p>Will your solution be a game changer?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Will your solution be a game changer?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-98950" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Distractions</h3>
+                    <p>How can you cope with disturbing elements?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How can you cope with disturbing elements?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-154625" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Early Adopters</h3>
+                    <p>People that early recognise your product</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People that early recognise your product">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3314107" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Elevator Pitch</h3>
+                    <p>A Quick &amp; Clear Presentation</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="A Quick &amp; Clear Presentation">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-364827" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Energizers</h3>
+                    <p>How will the project be energising to build?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How will the project be energising to build?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1455490" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Existing Alternatives</h3>
+                    <p>Similar Projects &amp; Alternatives</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Similar Projects &amp; Alternatives">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2734811" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Feedback</h3>
+                    <p>How do we get feedback on our solution?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How do we get feedback on our solution?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-678601" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Focus Question</h3>
+                    <p>Are we solving the Right Question?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Are we solving the Right Question?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-77256" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Follow-Ups</h3>
+                    <p>How we stay Updated and Tuned in</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we stay Updated and Tuned in">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-225017" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Funding</h3>
+                    <p>How we Fund our Operations</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we Fund our Operations">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3169879" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Goals</h3>
+                    <p>What you are aiming at</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What you are aiming at">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1483947" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Hazards</h3>
+                    <p>Which Risks we foresee</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Which Risks we foresee">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3414109" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Hypothesis</h3>
+                    <p>Core Assumption that we navigate from</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Core Assumption that we navigate from">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-7771" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Important Players</h3>
+                    <p>People you need to Relate To</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People you need to Relate To">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-201432" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Intellectual Property</h3>
+                    <p>Copyright, Trademarks, Patents</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Copyright, Trademarks, Patents">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2289635" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Rules &amp; Regulations</h3>
+                    <p>That need to be followed</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="That need to be followed">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3312623" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Loyalty</h3>
+                    <p>How we get the users to Stay or Come Back</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we get the users to Stay or Come Back">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-702569" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Market Growth</h3>
+                    <p>How is the area developing?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How is the area developing?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1978405" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Marketing Strategy</h3>
+                    <p>How to Promote and Reach Out</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How to Promote and Reach Out">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1146104" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Mentors</h3>
+                    <p>How we access Guidance and Experience along the way</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we access Guidance and Experience along the way">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-4180398" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Metrics</h3>
+                    <p>How Statistics and Data can make us perform better</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How Statistics and Data can make us perform better">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1303960" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>MVP</h3>
+                    <p>What is the Simplest Version of your concept?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What is the Simplest Version of your concept?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-160795" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Partnerships</h3>
+                    <p>People we collaborate with</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People we collaborate with">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-717391" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Passion</h3>
+                    <p>What drives you?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What drives you?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1168142" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Payment Models</h3>
+                    <p>How the users pay for your thing</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How the users pay for your thing">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3977460" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Pitch Deck</h3>
+                    <p>7 minute keynote to present our Solution</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="7 minute keynote to present our Solution">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1033167" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Profit</h3>
+                    <p>Revenue= Incomes minus Expenses</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Revenue= Incomes minus Expenses">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3440741" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Reach Out Tacticts</h3>
+                    <p></p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Reach Out Tactics">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1033417" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Registrations</h3>
+                    <p>Get your user name on different platforms</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Get your user name on different platforms">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2608248" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Research</h3>
+                    <p>Insights & Research on the problem and field</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Insights & Research on the problem and field">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2404742" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Revenue Streams</h3>
+                    <p>Where we will get Income from</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Where we will get Income from">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-173374" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Road Map</h3>
+                    <p>The Plan to how to Reach our Goals</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Plan to how to Reach our Goals">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-414705" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Roles &amp; Responsibilities</h3>
+                    <p>How do you divide work</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How do you divide work">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1306620" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Sales</h3>
+                    <p>Conversions and closing of deals</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Conversions and closing of deals">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3911632" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Scalability</h3>
+                    <p>How can our solution Grow or Multiply</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How can our solution Grow or Multiply">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-1941333" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Solution</h3>
+                    <p>Your way of solving the problem</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Your way of solving the problem">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3012376" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Speed</h3>
+                    <p>How fast can we launch it?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How fast can we launch it?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2005" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Story</h3>
+                    <p>The tale behind the project</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The tale behind the project">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3227675" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Success Factors</h3>
+                    <p>Factors that will help us succeed</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Factors that will help us succeed">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-103355" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Target Group</h3>
+                    <p>The Audience we aim to Target</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Audience we aim to Target">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-4100930" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Team</h3>
+                    <p>Our Core Group</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Our Core Group">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-922696" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Time Plan</h3>
+                    <p>How we set deadline &amp; phases</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we set deadline &amp; phases">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-161941" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Trends</h3>
+                    <p>Current and upcoming trends</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Current and upcoming trends">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2295030" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Urgency</h3>
+                    <p>How Urgent is the Problem you want to solve?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How Urgent is the Problem you want to solve?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2385400" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>User Acquisition</h3>
+                    <p>How to Hook New Users</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How to Hook New Users">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-2751448" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>User Experience</h3>
+                    <p>What Kind of Experience you would like to convey</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Kind of Experience you would like to convey">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-3107706" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Value</h3>
+                    <p>Value or Experience you offer</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Value or Experience you offer">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="card uncategorized icon-940541" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Viability</h3>
+                    <p>What makes you so sure that it works?</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What makes you so sure that it works?">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="card uncategorized icon-668491" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
+                <div class="front">
+                    <h3>Vision</h3>
+                    <p>The Fluffy Vision on the Horizon</p>
+                </div>
+                <div class="back">
+                    <h3>Relevant to you?</h3>
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Fluffy Vision on the Horizon">
+                        <div class="like"></div>
+                        <div class="share-link">Share your story</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div> <!-- ending div class="grid" -->
+
+    <!-- -------------------------------------------------------------------------- -->
+
+    <div id="ex1" class="modal">
+        <h3 style="color: black" class="question"></h3>
+        <h3>Write your answer below, it will remain anonymous.</h3>
+        <textarea class="feedback"></textarea>
+        <button class="submit">Submit</button>
+    </div>
+
+    <div id="success" class="modal">
+        <h3>Thank you for your feedback!</h3>
+        <p style="text-align: center; color: black; margin: 10px 0 20px 0;">Your answer has been sent to us.</p>
+    </div>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.js'></script>
+    <script src='js/aos.js'></script>
+    <script src='js/toolkit.js'></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+    <script>
+        function send_feedback(id, question, feedback) {
+            $.ajax({
+                url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/remote',
+                headers: {
+                    'Authorization': 'Bearer keyocggSHfh6E9gSg'
+                },
+                method: 'POST',
+                data: {
+                    'fields': {
+                        'id': id,
+                        'Question': question,
+                        'Feedback': feedback
+                    }
+                },
+                success: function() {
+                    console.log('it worked! I think');
+                    $(".feedback").val('');
+                    $('#success').modal();
+                },
+                error: function() {
+                    console.log('nope');
+                }
+            });
+        }
+
+        $(document).ready(function () {
+            $(".container").each(function (e) {
+                var t = 0.3 * Math.random() - 0.1;
+                $(this).css("transform", "rotate(" + t + "deg)");
+            }),
+                AOS.init({ duration: 600, easing: "ease-out-back", once: !0 }),
+                $(".top-nav .button").on("click", function () {
+                    $(this).toggleClass("active"), $(".menu").slideToggle("fast");
+                });
+                var question; var id;
+            for (var e = document.querySelectorAll(".give_feedback"), t = 0; t < e.length; t++)
+                e[t].onclick = function () {
+                    question = this.getAttribute("data-click-question");
+                    id = this.getAttribute("data-click-id");
+                    $("h3.question").text(question);
+                };
+
+        $(".submit").click(function () {
+            var feedback = $('.feedback').val();
+            send_feedback(id, question, feedback);
+            $.modal.close();
+            });
+        });
+    </script>
+
+</body>
+</html>
