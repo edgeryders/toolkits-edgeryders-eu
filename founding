@@ -103,7 +103,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Activities will draw Engament and Participation">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Activation" data-click-question="What Activities will draw Engament and Participation">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -122,7 +122,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How much will be earned &amp; spent">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Budget" data-click-question="How much will be earned &amp; spent">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -138,7 +138,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Model how we will Create Value">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Business Model" data-click-question="Model how we will Create Value">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Activities and Materials will draw Media Attention">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Communication Strategy" data-click-question="What Activities and Materials will draw Media Attention">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -170,7 +170,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What local channels are the most relevant for reaching out">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Communication Channels" data-click-question="What local channels are the most relevant for reaching out">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -186,7 +186,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People around the bonfire">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Community Management" data-click-question="People around the bonfire">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -202,7 +202,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Effects &amp; Results of different choices">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Consequences" data-click-question="The Effects &amp; Results of different choices">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -218,7 +218,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we get visitors to become users">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Conversion" data-click-question="How we get visitors to become users">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -234,7 +234,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What you Stand For">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Core Values" data-click-question="What you Stand For">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -250,7 +250,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Fixed &amp; Flexible costs">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Costs" data-click-question="Fixed &amp; Flexible costs">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -266,7 +266,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Important Times for Delivering Results">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Deadlines" data-click-question="Important Times for Delivering Results">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -282,7 +282,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What makes it Unique &amp; Special">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Differentiator" data-click-question="What makes it Unique &amp; Special">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -298,7 +298,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What solutions will Users Leave Behind for Yours">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Discards" data-click-question="What solutions will Users Leave Behind for Yours">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -314,7 +314,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Will your solution be a game changer?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Disruptiveness" data-click-question="Will your solution be a game changer?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -330,7 +330,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How can you cope with disturbing elements?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Distractions" data-click-question="How can you cope with disturbing elements?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -346,7 +346,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People that early recognise your product">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Early Adopters" data-click-question="People that early recognise your product">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -362,7 +362,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="A Quick &amp; Clear Presentation">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Elevator Pitch" data-click-question="A Quick &amp; Clear Presentation">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -378,7 +378,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How will the project be energising to build?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Energizers" data-click-question="How will the project be energising to build?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -394,7 +394,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Similar Projects &amp; Alternatives">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Existing Alternatives" data-click-question="Similar Projects &amp; Alternatives">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -410,7 +410,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How do we get feedback on our solution?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Feedback" data-click-question="How do we get feedback on our solution?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -426,7 +426,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Are we solving the Right Question?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Focus Question" data-click-question="Are we solving the Right Question?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -442,7 +442,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we stay Updated and Tuned in">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Follow-Ups" data-click-question="How we stay Updated and Tuned in">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -458,7 +458,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we Fund our Operations">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Funding" data-click-question="How we Fund our Operations">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -474,7 +474,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What you are aiming at">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Goals" data-click-question="What you are aiming at">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -490,7 +490,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Which Risks we foresee">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Hazards" data-click-question="Which Risks we foresee">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -506,7 +506,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Core Assumption that we navigate from">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Hypothesis" data-click-question="Core Assumption that we navigate from">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -522,7 +522,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People you need to Relate To">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Important Players" data-click-question="People you need to Relate To">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -538,7 +538,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Copyright, Trademarks, Patents">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Intellectual Property" data-click-question="Copyright, Trademarks, Patents">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -554,7 +554,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="That need to be followed">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Rules &amp; Regulations" data-click-question="That need to be followed">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -570,7 +570,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we get the users to Stay or Come Back">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Loyalty" data-click-question="How we get the users to Stay or Come Back">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -586,7 +586,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How is the area developing?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Market Growth" data-click-question="How is the area developing?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -602,7 +602,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How to Promote and Reach Out">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Marketing Strategy" data-click-question="How to Promote and Reach Out">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -618,7 +618,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we access Guidance and Experience along the way">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Mentors" data-click-question="How we access Guidance and Experience along the way">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -634,7 +634,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How Statistics and Data can make us perform better">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Metrics" data-click-question="How Statistics and Data can make us perform better">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -650,7 +650,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What is the Simplest Version of your concept?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="MVP" data-click-question="What is the Simplest Version of your concept?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -666,7 +666,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="People we collaborate with">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Partnerships" data-click-question="People we collaborate with">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -682,7 +682,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What drives you?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Passion" data-click-question="What drives you?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -698,7 +698,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How the users pay for your thing">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Payment Models" data-click-question="How the users pay for your thing">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -714,7 +714,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="7 minute keynote to present our Solution">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Pitch Deck" data-click-question="7 minute keynote to present our Solution">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -730,7 +730,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Revenue= Incomes minus Expenses">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Profit" data-click-question="Revenue= Incomes minus Expenses">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -746,7 +746,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Reach Out Tactics">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Reach Out Tacticts" data-click-question="Reach Out Tacticts">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -762,7 +762,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Get your user name on different platforms">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Registrations" data-click-question="Get your user name on different platforms">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -774,11 +774,11 @@
             <div class="card uncategorized icon-2608248" ontouchstart="this.classList.toggle('hover');" data-aos="zoom-in">
                 <div class="front">
                     <h3>Research</h3>
-                    <p>Insights & Research on the problem and field</p>
+                    <p>Insights &amp; Research on the problem and field</p>
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Insights & Research on the problem and field">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Research" data-click-question="Insights &amp; Research on the problem and field">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -794,7 +794,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Where we will get Income from">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Revenue Streams" data-click-question="Where we will get Income from">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -810,7 +810,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Plan to how to Reach our Goals">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Road Map" data-click-question="The Plan to how to Reach our Goals">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -826,7 +826,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How do you divide work">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Roles &amp; Responsibilities" data-click-question="How do you divide work">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -842,7 +842,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Conversions and closing of deals">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Sales" data-click-question="Conversions and closing of deals">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -858,7 +858,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How can our solution Grow or Multiply">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Scalability" data-click-question="How can our solution Grow or Multiply">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -874,7 +874,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Your way of solving the problem">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Solution" data-click-question="Your way of solving the problem">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -890,7 +890,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How fast can we launch it?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Speed" data-click-question="How fast can we launch it?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -906,7 +906,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The tale behind the project">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Story" data-click-question="The tale behind the project">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -922,7 +922,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Factors that will help us succeed">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Success Factors" data-click-question="Factors that will help us succeed">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -938,7 +938,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Audience we aim to Target">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Target Group" data-click-question="The Audience we aim to Target">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -954,7 +954,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Our Core Group">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Team" data-click-question="Our Core Group">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -970,7 +970,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How we set deadline &amp; phases">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Time Plan" data-click-question="How we set deadline &amp; phases">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -986,7 +986,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Current and upcoming trends">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Trends" data-click-question="Current and upcoming trends">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1002,7 +1002,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How Urgent is the Problem you want to solve?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Urgency" data-click-question="How Urgent is the Problem you want to solve?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1018,7 +1018,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="How to Hook New Users">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="User Acquisition" data-click-question="How to Hook New Users">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1034,7 +1034,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What Kind of Experience you would like to convey">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="User Experience" data-click-question="What Kind of Experience you would like to convey">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1050,7 +1050,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="Value or Experience you offer">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Value" data-click-question="Value or Experience you offer">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1066,7 +1066,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="What makes you so sure that it works?">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Viability" data-click-question="What makes you so sure that it works?">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1082,7 +1082,7 @@
                 </div>
                 <div class="back">
                     <h3>Relevant to you?</h3>
-                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="All" data-click-question="The Fluffy Vision on the Horizon">
+                    <a class="give_feedback" href="#ex1" rel="modal:open" data-click-id="Uncategorized" data-click-title="Vision" data-click-question="The Fluffy Vision on the Horizon">
                         <div class="like"></div>
                         <div class="share-link">Share your story</div>
                     </a>
@@ -1113,7 +1113,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 
     <script>
-        function send_feedback(id, question, feedback) {
+        function send_feedback(id, title, question, feedback) {
             $.ajax({
                 url: 'https://api.airtable.com/v0/appX7XmDnUB7gf0oW/founding',
                 headers: {
@@ -1123,6 +1123,7 @@
                 data: {
                     'fields': {
                         'id': id,
+                        'Title': title,
                         'Question': question,
                         'Feedback': feedback
                     }
@@ -1150,14 +1151,15 @@
                 var question; var id;
             for (var e = document.querySelectorAll(".give_feedback"), t = 0; t < e.length; t++)
                 e[t].onclick = function () {
-                    question = this.getAttribute("data-click-question");
                     id = this.getAttribute("data-click-id");
+                    title = this.getAttribute("data-click-title");
+                    question = this.getAttribute("data-click-question");
                     $("h3.question").text(question);
                 };
 
         $(".submit").click(function () {
             var feedback = $('.feedback').val();
-            send_feedback(id, question, feedback);
+            send_feedback(id, title, question, feedback);
             $.modal.close();
             });
         });
