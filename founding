@@ -1115,7 +1115,7 @@
     <script>
         function send_feedback(id, question, feedback) {
             $.ajax({
-                url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/remote',
+                url: 'https://api.airtable.com/v0/appfBuYsvVhYq8Fog/founding',
                 headers: {
                     'Authorization': 'Bearer keyocggSHfh6E9gSg'
                 },
